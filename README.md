@@ -1,12 +1,20 @@
-### About Me
+## About Me
 
-#### Web Developer
+### Web Developer
 
 🎓 In college, I studied game design/development with technologies like Unity, Unreal, and GameMaker.
 
 👨‍💼 Nowadays, I am a professional web developer, working on responsive, dynamic websites.
 
 🎮 From time to time, I'll even work on a web-based game!
+
+### Language Learner 🇩🇪 🇯🇵 🇻🇦 🇪🇸
+
+🗣 Aside from German, which I use to chat with relatives, learning foreign languages is one of my favorite hobbies.
+
+📙 I am currently working my way through "Lingua Latina per se Illustrata: Pars I" and taking a look at a few of the German books by Olly Richards every now and then.
+
+ I'm learning Japanese with Duolingo and practicing German with Lingo Legend.
 
 <!--
 **CoryDerGrosse/CoryDerGrosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
