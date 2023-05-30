@@ -14,7 +14,7 @@
 
 📙 I am currently working my way through "Lingua Latina per se Illustrata: Pars I" and taking a look at a few of the German books by Olly Richards every now and then.
 
- I'm learning Japanese with Duolingo and practicing German with Lingo Legend.
+📱 I'm learning Japanese with Duolingo and practicing German with Lingo Legend.
 
 <!--
 **CoryDerGrosse/CoryDerGrosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
