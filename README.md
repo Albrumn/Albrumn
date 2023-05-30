@@ -1,7 +1,11 @@
-### Hi there 👋
+### About Me
+
+#### Web Developer
 
 🎓 In college, I studied game design/development with technologies like Unity, Unreal, and GameMaker.
+
 👨‍💼 Nowadays, I am a professional web developer, working on responsive, dynamic websites.
+
 🎮 From time to time, I'll even work on a web-based game!
 
 <!--
